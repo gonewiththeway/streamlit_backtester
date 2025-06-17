@@ -1,0 +1,1 @@
+streamlit run backtester_app.py --server.enableCORS false --server.enableXsrfProtection false
